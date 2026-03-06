@@ -1,6 +1,7 @@
 # MPK Mini 3 MIDI Script Configurator
 
-An open-source web app for visually configuring an Akai MPK Mini 3 and generating a Python script compatible with FL Studio.
+An open-source web app for visually configuring an Akai MPK Mini 3 and generating a Python script compatible with FL Studio.   
+Link: https://egop358.github.io/mpk-mini3-configurator/
 
 ## What it does
 - Lets User assign FL Studio transport functions to each pad (Bank A andor B) and knob
